@@ -1,6 +1,16 @@
-# Aplicación de Lista de Tareas en Android
+# TaskManager
 
 Esta es una aplicación Android que permite gestionar tus tareas diarias de manera sencilla y eficiente. Los usuarios pueden agregar tareas, eliminarlas, marcarlas como completadas y mucho más. Además, la aplicación utiliza **Firebase** para el registro e inicio de sesión, asegurando que cada usuario solo pueda ver sus propias tareas.
+
+##Índice
+
+*[Características](#características)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Requisitos previos](#requisitos-previos)
+
+*[Instalación](#Instalación)
 
 ## Características
 
