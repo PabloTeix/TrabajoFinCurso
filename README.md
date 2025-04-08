@@ -7,7 +7,7 @@ Esta es una aplicación Android que permite gestionar tus tareas diarias de mane
 - [Características](#características)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Persona Desarrolladoras del Proyecto](#persona-desarrolladoras-del-proyecto)
-- [Instalación](#instalación)
+- [Instalación codigo](#instalación-codigo)
 
 
 
@@ -34,7 +34,7 @@ Esta es una aplicación Android que permite gestionar tus tareas diarias de mane
 
 - [@PabloTeix](https://www.github.com/PabloTeix)
 
-## Instalación
+## Instalación codigo
 
 ### Requisitos previos
 
