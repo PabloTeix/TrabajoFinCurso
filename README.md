@@ -3,9 +3,17 @@
 
 **TaskManager** es una aplicación Android diseñada para que las personas puedan gestionar sus tareas de manera eficiente y sencilla, sin necesidad de pagar o ser interrumpidos por anuncios. Su misión es ayudarte a aprovechar al máximo tu tiempo, manteniendo todo organizado y sin distracciones. ¡Productividad sin complicaciones!
 
----
 
-## 🚀 Características
+## Índice
+
+- [Características](#características)
+- [¿Por qué TaskManager?](#¿por-qué-taskManager?)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Persona Desarrolladoras del Proyecto](#persona-desarrolladoras-del-proyecto)
+- [Instalación codigo](#instalación-codigo)
+
+
+## Características
 
 - **Gestión Sencilla de Tareas**: Agrega, edita o elimina tareas con solo unos clics.
 - **Marcar como Completadas**: Mantén el control de tu progreso y celebra cada tarea completada.
@@ -14,29 +22,12 @@
 - **Interfaz Intuitiva**: Con un diseño amigable, no perderás tiempo navegando entre menús complejos.
 
 
-## 📱 ¿Por qué TaskManager?
+## ¿Por qué TaskManager?
 
 En un mundo lleno de interrupciones, tener una herramienta simple y eficiente para organizar tu día es clave. **TaskManager** está diseñado para maximizar tu productividad de manera fácil y sin distracciones. 
 
 Lo que nos diferencia es que **es completamente gratuito** y **sin anuncios**. Nos enfocamos en darte lo que realmente necesitas: una experiencia clara, limpia y enfocada solo en tus tareas.
 
-## Índice
-
-- [Características](#características)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Persona Desarrolladoras del Proyecto](#persona-desarrolladoras-del-proyecto)
-- [Instalación codigo](#instalación-codigo)
-
-
-## Características
-
-- **Inicio de sesión y registro**: Los usuarios pueden registrarse e iniciar sesión utilizando su correo electrónico y contraseña. Firebase maneja la autenticación de usuarios.
-- **Gestión de tareas**:
-  - Agregar tareas.
-  - Marcar tareas como completadas.
-  - Eliminar tareas.
-- **Visibilidad privada**: Cada usuario solo puede ver y gestionar las tareas que ha creado.
-- **Interfaz intuitiva**: Diseño sencillo y fácil de usar para gestionar las tareas.
 
 ## Tecnologías utilizadas
 
