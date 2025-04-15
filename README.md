@@ -18,7 +18,6 @@
 - **Gestión Sencilla de Tareas**: Agrega, edita o elimina tareas con solo unos clics.
 - **Marcar como Completadas**: Mantén el control de tu progreso y celebra cada tarea completada.
 - **Vista de Calendario**: Visualiza tu agenda y tareas pendientes de manera clara y organizada.
-- **Notificaciones y Recordatorios**: Nunca más olvides tus responsabilidades. Recibe alertas para mantenerte al día.
 - **Interfaz Intuitiva**: Con un diseño amigable, no perderás tiempo navegando entre menús complejos.
 
 
@@ -38,7 +37,7 @@ Lo que nos diferencia es que **es completamente gratuito** y **sin anuncios**. N
 - **Gradle**: Para gestionar las dependencias del proyecto.
 
 
-## Persona Desarrolladoras del Proyecto
+## Persona Desarrolladora del Proyecto
 
 - [@PabloTeix](https://www.github.com/PabloTeix)
 
